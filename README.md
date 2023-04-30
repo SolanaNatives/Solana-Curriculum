@@ -14,4 +14,21 @@ Best Developer resources to get started with Solana
 - Proof of History Consensus
    - https://www.infoworld.com/article/3666736/solana-blockchain-and-the-proof-of-history.html
    
-   
+
+# Module 2 - Essential Rust
+- Variables, Data types, Functions, Macros, Structures, Enum, Control Statements, Match Statement, Testing & Modules
+   - https://youtu.be/-AAtfPHEMbA
+   - https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+ 
+ 
+# Module 3 - Setting up the Environment 
+- How to setup Solana CLI?
+   - https://youtu.be/b0nIEtIrG-k
+   - https://solongwallet.medium.com/solana-development-tutorial-environment-setup-2649cb81305
+
+
+# Module 4 - Accounts 
+- What are accounts?
+   - https://solanacookbook.com/core-concepts/accounts.html#facts
+- Different kinds of accounts
+   - 
