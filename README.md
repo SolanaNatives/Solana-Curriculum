@@ -76,7 +76,7 @@ Best Developer resources to get started with Solana
 
 
 # Module 8 - PDA & CPI
-- PDA?
+- PDA
    - https://solanacookbook.com/core-concepts/pdas.html#facts
    - https://youtu.be/iMWaQRyjpl4
 - CPI
