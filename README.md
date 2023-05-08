@@ -92,6 +92,9 @@ Best Developer resources to get started with Solana
 
 
 # Module 10 - Create Your Own DApp
-- Crowdfunding dApp
+- Web3 Project Ideas
+   - https://github.com/solana-labs/solana-season/blob/master/ideas.md
+   - https://build.superteam.fun
+- Dev Cycle For A Crowdfunding dApp
    - https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana#front-end-with-solana-web3-js
 
