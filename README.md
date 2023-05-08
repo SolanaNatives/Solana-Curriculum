@@ -1,8 +1,8 @@
 # Solana-Curriculum
 Best Developer resources to get started with Solana 
 
-# Module 1 - Web3 Fundamentals
-- What is Web3?
+# Module 1 - Web3 Fundamentals 
+- What is Web3? 
    - https://youtu.be/0tZFQs7qBfQ 
 - Difference between Web2 and Web3
    - https://youtu.be/4kz2qJznPP8
