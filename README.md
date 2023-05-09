@@ -95,6 +95,6 @@ The best path to get started with dApp development on Solana. Go from 0 to produ
 - Web3 Project Ideas
    - https://github.com/solana-labs/solana-season/blob/master/ideas.md
    - https://build.superteam.fun
-- Dev Cycle For A Crowdfunding dApp
+- Dev cycle for a Crowdfunding dApp
    - https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana#front-end-with-solana-web3-js
 
