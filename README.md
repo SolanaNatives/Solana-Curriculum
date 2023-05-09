@@ -1,5 +1,5 @@
 # Solana-Curriculum
-Best Developer resources to get started with Solana 
+The best path to get started with dApp development on Solana. Go from 0 to production-ready-skills with this curriculum.
 
 # Module 1 - Web3 Fundamentals 
 - What is Web3? 
